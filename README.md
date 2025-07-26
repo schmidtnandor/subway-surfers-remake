@@ -15,5 +15,7 @@ A recreation of Subway Surfers with some core features implemented using Unity a
 - Basic UI
 - More to come, this is just an MVP build right now
 
-
+## Controls
+-A,D for left and right movement
+- Space for jumping
 
