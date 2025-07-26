@@ -19,3 +19,4 @@ A recreation of Subway Surfers with some core features implemented using Unity a
 -A,D for left and right movement
 - Space for jumping
 
+## Play at https://play.unity.com/en/games/e4307e9d-9336-4861-a64f-b96d0571fa0e/subway-surfers-remake
